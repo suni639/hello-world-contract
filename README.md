@@ -6,7 +6,7 @@ A simple Solidity smart contract to store and update a message on the blockchain
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/hello-world-contract.git
+   git clone https://github.com/suni639/hello-world-contract
    cd hello-world-contract
 
 2. **Install dependencies**:
@@ -19,7 +19,7 @@ A simple Solidity smart contract to store and update a message on the blockchain
 
 4. **Install Ganache**:
 
-Download and install from Ganache.
+Download and install from [Ganache](https://trufflesuite.com/ganache/).
 
 ## Usage
 
